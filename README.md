@@ -1,0 +1,2 @@
+# Pelican
+The pelican language
